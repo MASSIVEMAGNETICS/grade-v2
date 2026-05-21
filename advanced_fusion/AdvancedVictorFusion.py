@@ -1,0 +1,1 @@
+Advanced Victor Fusion module with learned gating
